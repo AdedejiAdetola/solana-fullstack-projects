@@ -1,0 +1,6 @@
+{
+  "name": "Example Token",
+  "symbol": "CATEX",
+  "description": "This is an example token",
+  "image": "https://raw.githubusercontent.com/mikemaccana/token-command-line/main/lights.png"
+}
